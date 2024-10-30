@@ -1,2 +1,4 @@
 # Assignment-2-Pixel-Perfect-Figma-to-Next.js-with-Tailwind-CSS
 This project focuses on accurately implementing a Figma design, matching layout, spacing, typography, and colors to create a seamless, high-quality UI. Develop the page within a Next.js project, leveraging Tailwind CSS for clean, structured styling.
+
+This project, Build a Pixel-Perfect Page Using Next.js and Tailwind CSS, focuses on accurately replicating the provided Figma design (https://www.figma.com/design/iDLLEdqoM8g4CltrfgsaXC/Assignment-II?node-id=0-1&t=VYdf5Th4CU2TZpV2-1) with precision in layout, spacing, typography, and color for a pixel-perfect UI. Utilizing Next.js as the framework and Tailwind CSS for styling, the project ensures efficient, responsive, and scalable web design. This assignment strengthens skills in transforming designs into code, reinforcing knowledge of Next.js and Tailwind CSS to build modern, high-quality web interfaces.
